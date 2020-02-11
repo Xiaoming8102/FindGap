@@ -82,7 +82,7 @@ from optparse import OptionParser
 # ===========================================
 def main():
     usage = "Usage: %prog -i <genome.fa> [-o <output>]\n" \
-            "Author : Guo, Weilong Xie Xiaominb; guoweilong@gmail.com 2016301010312@cau.edu.cn; 2020-02-11\n" \
+            "Author : Guo, Weilong Xie Xiaoming; guoweilong@gmail.com 2016301010312@cau.edu.cn; 2020-02-11\n" \
             "Last Update: 2020-02-11\n" \
             "Description: Get the positions of all the NNNNNN(gap) fragments\n"
     parser = OptionParser(usage)
